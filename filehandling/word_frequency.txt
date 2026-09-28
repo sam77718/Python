@@ -1,0 +1,8 @@
+python: 4
+is: 4
+the: 1
+programming: 1
+language: 1
+easy.: 1
+powerful.: 1
+popular.: 1
